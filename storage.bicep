@@ -12,7 +12,7 @@ param name string = 'sascus007'
   'Standard_RAGRS'
   'Standard_ZRS'
 ])
-param type string = 'Standard_LRS'
+param type string = 'Standard_GRS'
 
 var containerName = 'images'
 
