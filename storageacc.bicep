@@ -23,7 +23,7 @@ resource appServicePlan 'Microsoft.Web/serverfarms@2021-03-01' = {
 }
 
 resource appServiceApp 'Microsoft.Web/sites@2021-03-01' = {
-  name: 'toy-product987429374'
+  name: 'toy-product234523'
   location: location
   properties: {
    httpsOnly: true
